@@ -1,0 +1,5 @@
+welcome:
+  message: "Hi, Welcome to ${spring.application.name} with config server from default profile"
+
+
+
