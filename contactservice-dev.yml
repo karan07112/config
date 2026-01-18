@@ -1,3 +1,3 @@
 welcome:
   message: "Hi, Welcome to ${spring.application.name} with config server from dev profile git2"
-  privateMessage: "{cipher} this is private message "
+  privateMessage: "{cipher} 65adfc53a7a2baaea431898fc660bdb59f8d248869837add88986706141419547efb1b985c0511877adc8be5aa0d6c29"
