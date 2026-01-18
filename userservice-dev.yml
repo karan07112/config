@@ -1,2 +1,2 @@
 welcome:
-  message: "Hi, Welcome to ${spring.application.name} with config server from dev profile"
+  message: "Hi, Welcome to ${spring.application.name} with config server from dev profile git"
